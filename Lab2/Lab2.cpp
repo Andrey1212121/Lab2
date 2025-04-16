@@ -70,7 +70,7 @@ public:
 };
 
 int main() {
-    Weapon ak("Gold sword", 100, 50);
+    Weapon GoldSword("Gold sword", 100, 50);
 
-    ak.displayInfo();
+    GoldSword.displayInfo();
 }
